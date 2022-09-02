@@ -14,12 +14,14 @@ I did an internship at [Avito](https://www.avito.ru/) as a product designer. And
 
 **Code example:**
 
-```function multiply(a, b){
-  let c = a * b;
-  return c;
+```
+function multiply(a, b){
+let c = a * b;
+return c;
 }
 
 console.log(multiply(2, 2));
+
 ```
 
 **Skills:** HTML, CSS, Less, Sass, BEM, basic JS, Jquery, 1c-bitrix, Git+github beginner.
